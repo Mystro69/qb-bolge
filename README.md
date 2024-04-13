@@ -1,5 +1,5 @@
 # qb-bolge
-Aileler vb. için bölge ele geçirme sistemi
+Aileler vb. için ödüllü bölge ele geçirme sistemi
 
 # Gereksinimler
 [PolyZone](https://github.com/mkafrin/PolyZone)<br>
